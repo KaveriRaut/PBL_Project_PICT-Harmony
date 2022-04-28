@@ -14,12 +14,13 @@ function Cards() {
                         text='Checkout Latest TimeTable'
                         label='TimeTable'
                         path='/services'
+                        
                     />
                     <CardItem 
                         src='images/Notice.jpeg'
                         text='Have you read the latest Notice? Checkout Here!'
                         label='Notices'
-                        path='/products'
+                        path='/services'
                     />
                     <CardItem 
                         src='images/resource.jpg' 

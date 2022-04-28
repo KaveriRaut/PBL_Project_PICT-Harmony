@@ -5,6 +5,7 @@
 
 body {
 	background: rgb(152, 205, 226);
+	/* background: linear-gradient(#64d0e6, #888fda); */
 	/* display: flex; */
 	/* justify-content: center; */
 	align-items: center;
@@ -38,7 +39,8 @@ span {
 }
 
 a {
-	color: #333;
+	/* font-size: 10px; */
+	color: rgb(0, 0, 0);
 	/* font-size: 14px; */
 	text-decoration: none;
 	/* margin: 15px 0; */

@@ -12,6 +12,9 @@ import img6 from "../Images/TED.jpeg";
 import img7 from "../Images/PICT_MUN.jpeg";
 import img8 from "../Images/ROBOTICS.png";
 import img9 from "../Images/IET.jpg";
+import img10 from "../Images/sport.webp";
+import img11 from "../Images/inc.png";
+
 
 
 function Club_info() {
@@ -24,7 +27,7 @@ function Club_info() {
                     <Clubs
                         // logo={img}
                         icon={img}
-                        name={"IEEE"}
+                        name={"PICT IEEE"}
                         content={"IEEE provides an opportunity for all, including student members, to showcase their talent, views and further strengthen IEEE activities. PISB has always been a platform for all the students to learn and polish their skills in various fields. The students, faculty and professionals alike have always aimed to enhance the awareness of technical developments and trends among all its members."}
                     ></Clubs>
                     <Clubs
@@ -55,9 +58,9 @@ function Club_info() {
                     ></Clubs>
                     <Clubs
                         // logo={img}
-                        icon={img2}
-                        name={"PASC ACM"}
-                        content={"PICT is an engineering college located in Pune , India . This is a blog about the activities conducted by the NSS unit of PICT .NSS stands for National Service Scheme , which is an initiative by the Government of India , with the following objectives :To make the students ..i. understand the community in which they workii. understand themselves in relation to their communityiii. identify the needs and problems of the community and involve them in problem-solving. develop among themselves a sense of social and civic responsibility"}
+                        icon={img11}
+                        name={"PASC INC"}
+                        content={"PICT’s flagship Technical Mega event “Impetus and Concepts” (InC). Every year InC sets a platform for students to design, develop, exhibit and watch their ideas come true. It is an intercollegiate International level competition which has been catching the attention of corporate giants for guiding and mentoring the participants for their product/project and provides on spot job offers. InC attracts the brightest of minds from India and abroad."}
                     ></Clubs>
                 </div>
             </div>
@@ -99,10 +102,10 @@ function Club_info() {
                     ></Clubs>
                     <Clubs
                         // logo={img}
-                        icon={img5}
-                        name={"PICTOREAL"}
-                        content={"This is our pict club for students."}
-                    ></Clubs>
+                        icon={img10}
+                        name={"PICT Sport"}
+                        content={"Sport allows students to compete against skilled athletes from other colleges and universities. Alongside competition and performance, sport lays emphasis on student initiative and team management, allowing participants to shape their own experience.Outdoor and indoor sports facilities are available for Table Tennis, Chess, Carrom, Basketball, Volleyball, etc.Hired ground facilities are available for Cricket, Shuttle Badminton, Football and Athletics."}
+                        ></Clubs>
                 </div>
             </div>
         </div >

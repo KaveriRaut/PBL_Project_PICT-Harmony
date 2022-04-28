@@ -5,6 +5,7 @@ import './App.css';
 import Home from './components/Pages/Home';
 import Services from './components/Pages/Services';
 import Products from './components/Pages/Products';
+import About_us from './components/Pages/About_us';
 import SignUp from './components/Pages/SignUp';
 import Club_info from './components/Club_info';
 import Faculty_info from './components/Faculty_info';
@@ -22,6 +23,7 @@ function App() {
           <Route path='/home' element={<Home/>} />
           <Route path='/services' element={<Services/>} />
           <Route path='/products' element={<Products/>} />
+          <Route path='/aboutus' element={<About_us/>} />
           <Route path='/sign-up' element={<SignUp/>} />
           <Route path='/Club_info' element={<Club_info />} />
           <Route path='/Faculty_info' element={<Faculty_info />} />

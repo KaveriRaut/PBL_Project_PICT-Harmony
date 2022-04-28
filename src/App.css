@@ -43,3 +43,88 @@
     color: #fff;
     font-size: 100px;
   }
+
+  .MyImg {
+    padding: 10px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    border: 3px solid rgb(49 122 135);
+    border-radius: 5px;
+  }
+
+  /*********for About_us page: ourTeam info***********/
+  @import url("https://fonts.googleapis.com/css?family=Poppins&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.Teambody {
+background-color: #5de6de;
+background-image: linear-gradient(315deg, #5de6de 0%, #b58ecc 74%);
+  /* background-color: bluegradient; */
+  font-family: "Poppins", sans-serif;
+}
+
+.Teamcontainer {
+  text-align: center;
+  margin: 20px 40px;
+  color: #077eaf	;
+  width: 1000px;
+  padding-bottom: 10px;
+  margin-left: 165px;
+  background-color: linear-gradient(#e66465, #9198e5);
+}
+
+.heading {
+  /* out team style */
+  font-size: 50px;
+  color: #077eaf;
+}
+
+.heading span {
+  /* meet style */
+  font-style: italic;
+  font-size: 30px;
+}
+
+.profiles {
+  display: flex;
+  justify-content:center;
+  margin: 30px 80px;
+  flex-wrap:wrap;
+  border: #9198e5;
+}
+
+.profile {
+  flex-basis: 260px;
+}
+
+.profile .profile-img {
+  /* photo of member */
+  height: 160px;
+  width: 160px;
+  border-radius: 20%;
+  margin: 20px;
+}
+
+.user-name {  
+  /* name of member */
+  /* margin-top: 20px; */
+  font-size: 25px;
+}
+
+.profile h5 {
+  /* role of member */
+  font-size: 15px;
+  font-weight: 100;
+  letter-spacing: 2px;
+  color:rgb(0, 0, 0);
+}
+
+/* .profile p {
+  font-size: 15px;
+  margin-top: 20px;
+  text-align: justify;
+} */

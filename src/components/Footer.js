@@ -11,6 +11,7 @@ function Footer() {
                     <h1> PICT-HARMONY </h1>
                     Interactive Web-Portal to get latest information about PICT
                 </p>
+                <Link to='/aboutus' style={{color: "white",fontSize:"30px",textDecorationLine: 'underline'}} >About Our Team</Link>  {/* Check for Team */}
                 <p className='footer-subscription-text'>
                     Sign Up Now
                 </p>
@@ -24,11 +25,12 @@ function Footer() {
             <div className='footer-links'>
                 <div className='footer-link-wrapper'>
                     <div className='footer-link-items'>
-                        <h2>About Us</h2>
+                        <h2>Know More</h2>
                         <Link to='/SignInPage'>How it Works</Link>
                         <Link to='/SignInPage'>Investors</Link>
                         <Link to='/SignInPage'>Testimonials</Link>
-                        {/* <Link to='/'>Made with ❤ by Web-Team</Link> */}
+                        
+                        
                     </div>
                     <div className='footer-link-items'>
                         <h2>Contact Us</h2>
@@ -58,7 +60,7 @@ function Footer() {
                         </Link>
                     </div>
                     <small className='website-rights'>PICT-HARMONY © 2022</small>
-                    <a href='' className='website-rights'>Made with ❤ by Web-Team</a>
+                    <a href='/aboutus' className='website-rights'>Made with ❤ by Web-Team</a>
                     <div className='social-icons'>
                         <Link className='social-icon-link facebook'
                             to='/'
