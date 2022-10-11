@@ -1,5 +1,10 @@
 #PICT_Harmony Interactive Web Portal
 
+College Group Project
+• My Role : Frontend Developer.
+• Description : Interactive Web portal with facility to access college related material like Time tables, Notices, Club information, Study material, faculty information to PICT’ians.
+• Technologies used : Frontend (Html, CSS, JavaScript, React JS), Backend (Node JS, Express JS), Database (Mongo DB).
+
 <img width="960" alt="harmony1" src="https://user-images.githubusercontent.com/97447480/194701205-bbf1cdd8-6656-4999-a8b7-2bba75d34ab0.png">
 <img width="959" alt="harmony2" src="https://user-images.githubusercontent.com/97447480/194701217-d6048c18-ef3b-4c3f-919a-5e0b5242c39a.png">
 <img width="960" alt="harmony4" src="https://user-images.githubusercontent.com/97447480/194701500-5b5939e2-055b-4d36-b655-71bb1d3c2487.png">
