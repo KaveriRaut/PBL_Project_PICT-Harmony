@@ -1,4 +1,4 @@
-# 🤝PICT_Harmony Interactive Web Portal🤝 #
+# 🤝PICT-Harmony Interactive Web Portal🤝 #
 
 - Interactive Web portal which provide facility to PICT students to access college related information.
 - Provides Faculty Information.
