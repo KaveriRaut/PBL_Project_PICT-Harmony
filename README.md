@@ -16,9 +16,10 @@
 - Material UI
 
 ## 📸Snapshots of website :
-<img width="960" alt="harmony1" src="https://user-images.githubusercontent.com/97447480/194701205-bbf1cdd8-6656-4999-a8b7-2bba75d34ab0.png">
+
 <img width="959" alt="harmony2" src="https://user-images.githubusercontent.com/97447480/194701217-d6048c18-ef3b-4c3f-919a-5e0b5242c39a.png">
 <img width="960" alt="harmony4" src="https://user-images.githubusercontent.com/97447480/194701500-5b5939e2-055b-4d36-b655-71bb1d3c2487.png">
+<img width="960" alt="harmony1" src="https://user-images.githubusercontent.com/97447480/194701205-bbf1cdd8-6656-4999-a8b7-2bba75d34ab0.png">
 
 <img width="960" alt="harmony5" src="https://user-images.githubusercontent.com/97447480/194701260-873da4dc-2911-4f5b-9cd1-de83e6e41fcd.png">
 <img width="960" alt="notice" src="https://user-images.githubusercontent.com/97447480/194701271-8f8635e8-b03b-4d29-9e57-a097e90553c4.png">
